@@ -1,5 +1,5 @@
 <?php
-namespace  Test;
+namespace  plutoEr\terrytest;
 
 class Test{
 
